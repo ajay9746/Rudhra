@@ -45,7 +45,7 @@ bash <(curl -L https://t.ly/tHxh)
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra/fork)
+ Click [FORK](https://github.com/ajay9746/Rudhra/fork)
 
 5. Now https://heroku.com/deploy?template=https://github.com/ajay9746/Rudhra copy this url and change prince-rudh with your github username and click go<br>
 
